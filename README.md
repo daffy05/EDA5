@@ -46,7 +46,7 @@ seaborn
 
 ### 6. 📈 Visualization
 - Bar chart of `Admission_Type` value counts
-<img width="220" height="199" alt="Screenshot 2026-09-23 091107" src="https://github.com/user-attachments/assets/9523e310-32c0-423c-8e78-7b6e4f736a51" />
+<img width="552" height="506" alt="download" src="https://github.com/user-attachments/assets/aee535e9-070e-4aaa-b940-38de6a128a59" />
 
 
 ## ✅ Key Outputs
